@@ -1,4 +1,4 @@
-# Essay —SAAB-Rocket Lab Europe
+# Essay —SAAB ahd Rocket Lab Europe -- collaboration?
 Two NATO-Native Space Companies, One Obvious Conversation
 An open note to Saab engineers on why Rocket Lab Europe is worth a coffee
 Something quiet but important happened in Munich this April. Rocket Lab closed its acquisition of Mynaric, stood up Rocket Lab Europe as a semi-autonomous German entity, and — with the German FDI approval that took thirteen months to earn — became the only NATO-native optical communications terminal manufacturer in Europe outside Airbus/Tesat.
